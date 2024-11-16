@@ -19,22 +19,22 @@ Make sure you have the following installed:
 git clone https://github.com/mariia-alam/yum-order.git
 cd yum-order
 
-1. Frontend Setup
+2. Frontend Setup
 
-Install dependencies:
+- **Install dependencies:
 npm install
-Start the development server:
+- **Start the development server:
 npm run dev
 h
 o
 
 3. Backend Setup
 
-Navigate to the backend directory:
+_ **Navigate to the backend directory:
 cd backend
-Install dependencies:
+_ **Install dependencies:
 npm install
-Start the backend server:
+_ **Start the backend server:
 npm start
 
 ------
