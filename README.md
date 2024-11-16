@@ -21,19 +21,27 @@ cd yum-order
 
 2. Frontend Setup
 
-- **Install dependencies:
+- Install dependencies:
+
 npm install
-- **Start the development server:
+
+- Start the development server:
+
 npm run dev
+
 h
+
 o
 
 3. Backend Setup
-- **Navigate to the backend directory:
+- Navigate to the backend directory:
+
 cd backend
-- **Install dependencies:
+- Install dependencies:
+
 npm install
-- **Start the backend server:
+- Start the backend server:
+
 npm start
 
 ------
