@@ -29,12 +29,11 @@ h
 o
 
 3. Backend Setup
-
-_ **Navigate to the backend directory:
+- **Navigate to the backend directory:
 cd backend
-_ **Install dependencies:
+- **Install dependencies:
 npm install
-_ **Start the backend server:
+- **Start the backend server:
 npm start
 
 ------
